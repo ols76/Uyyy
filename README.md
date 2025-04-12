@@ -70,6 +70,20 @@
     }
 
   </style>
+  .slide img, .slide video {
+  animation: popUp 0.8s ease forwards;
+}
+
+@keyframes popUp {
+  0% {
+    opacity: 0;
+    transform: scale(0.8) translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
 </head>
 <body>
 
