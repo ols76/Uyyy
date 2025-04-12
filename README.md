@@ -69,8 +69,7 @@
       right: 30px;
     }
 
-  </style>
-  .slide img, .slide video {
+  </ .slide img, .slide video {
   animation: popUp 0.8s ease forwards;
 }
 
@@ -81,8 +80,8 @@
   }
   100% {
     opacity: 1;
-    transform: scale(1) translateY(0);
-  }
+    transform: scale(1) translateY(0);>
+  
 }
 </head>
 <body>
