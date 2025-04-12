@@ -73,8 +73,8 @@
 </head>
 <body>
 
-  <img src="7443cd7bd7ba3e0c1ec75a72380df0c9.png" class="sticker sticker1" />
-  <img src="33a85608ed6813334001949f32c670cb.png" class="sticker sticker2" />
+  <img src="7443cd7bd7ba3e0c1ec75a72380df0c9.jpg" class="sticker sticker1" />
+  <img src="33a85608ed6813334001949f32c670cb.jpg" class="sticker sticker2" />
 
   <h1>Happy Level Up Najipah!</h1>
   <div class="container" id="slideshow">
